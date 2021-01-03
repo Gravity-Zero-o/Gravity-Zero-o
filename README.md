@@ -1,5 +1,5 @@
 # Hi there ✔
-![image](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/time-01.png)
+![time-01](https://user-images.githubusercontent.com/58356670/103477413-aa0b6100-4df9-11eb-933e-0e56e344a3b2.png)
 
 ### 🤵 About Me:
 - 🏦 I'm a student interested in Internet technology.
@@ -9,9 +9,10 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-<img src="https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_c%2B%2B_32.png" alt="c" width="40" height="40"/> 
-<img src="https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png" alt="android" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+![icons8_c++_32](https://user-images.githubusercontent.com/58356670/103477418-bbed0400-4df9-11eb-8390-0b5909267f01.png)
+ alt="c" width="40" height="40"/> 
+![icons8_android_48](https://user-images.githubusercontent.com/58356670/103477429-d0310100-4df9-11eb-8f21-63e7536bceb6.png) alt="android" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="git" width="40" height="40"/>
 </p>
 
 ---
