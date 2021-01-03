@@ -1,9 +1,8 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-![](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/time-01.png)
+# Hi there ✔
+![image](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/time-01.png)
 
 ### 🤵 About Me:
 - 🏦 I'm a student interested in Internet technology.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.java```,``` .kt```, ```.cpp```
 - 🌱 I’m currently learning Android and Java
 - 👯 We can connect to play some games of Chess ♟
@@ -11,7 +10,7 @@
 
 <p align="center">
 <img src="https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_c%2B%2B_32.png" alt="c" width="40" height="40"/> 
-<img src="https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png" alt="cplusplus" width="40" height="40"/> 
+<img src="https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png" alt="android" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </p>
 
