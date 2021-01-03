@@ -1,5 +1,5 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+![](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/time-01.png)
 
 ### 🤵 About Me:
 - 🏦 I'm a student interested in Internet technology.
@@ -10,8 +10,8 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_c%2B%2B_32.png" alt="c" width="40" height="40"/> 
+<img src="https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png" alt="cplusplus" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </p>
 
