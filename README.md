@@ -8,10 +8,10 @@
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 
-<p align="center">
+
 ![.](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_c%2B%2B_32.png)
 ![.](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png) 
-</p>
+
 
 ---
 ### 🐱My Github stats:
