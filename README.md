@@ -9,9 +9,8 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-![time-01](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_c%2B%2B_32.png)
- 
-![time-01](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png) alt="android" 
+![.](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_c%2B%2B_32.png)
+![.](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png) 
 </p>
 
 ---
