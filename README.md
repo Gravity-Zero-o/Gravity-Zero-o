@@ -1,4 +1,4 @@
-# Hi there ✔
+# Bonjour, tout le monde ✔
 ![time-01](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/time-01.png)
 
 ### 🤵 About Me:
@@ -9,8 +9,8 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 
-![.](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_c%2B%2B_32.png)
-![.](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png) 
+![c++](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_c%2B%2B_32.png)
+![Android](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png) 
 
 
 ---
