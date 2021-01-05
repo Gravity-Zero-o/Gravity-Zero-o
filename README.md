@@ -1,5 +1,5 @@
 # Hi there ✔
-![time-01](https://user-images.githubusercontent.com/58356670/103477413-aa0b6100-4df9-11eb-933e-0e56e344a3b2.png)
+![time-01](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/time-01.png)
 
 ### 🤵 About Me:
 - 🏦 I'm a student interested in Internet technology.
