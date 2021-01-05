@@ -10,9 +10,8 @@
 
 <p align="center">
 ![time-01](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_c%2B%2B_32.png)
- alt="c" width="40" height="40"/> 
-![time-01](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png) alt="android" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="git" width="40" height="40"/>
+ 
+![time-01](https://github.com/Gravity-Zero-o/Gravity-Zero-o/blob/main/images/icons8_android_48.png) alt="android" 
 </p>
 
 ---
