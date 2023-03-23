@@ -3,7 +3,7 @@
 
 ### 🤵 About Me:
 - 🏦 I'm a student interested in Internet technology.
-- 🤔 I use daily ```.java```,``` .kt```, ```.cpp```
+- 🤔 I use daily ```.java```,``` .kt```, ```.cpp```, ```.py```
 - 🌱 I’m currently learning Android and Java
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
