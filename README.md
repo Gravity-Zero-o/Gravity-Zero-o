@@ -4,7 +4,7 @@
 ### 🤵 About Me:
 - 🏦 I'm a student interested in Internet technology.
 - 🤔 I use daily ```.java```,``` .kt```, ```.cpp```, ```.py```
-- 🌱 I’m currently learning Android and Java
+- 🌱 I’m currently learning OpenFOAM and Python
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 
